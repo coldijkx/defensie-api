@@ -1,0 +1,1 @@
+Start DB in CMD: C:\Users\Collin\Desktop\Stage\Eigen-API>json-server --watch db.json

@@ -1,0 +1,28 @@
+{
+    "Defensie": [
+      {
+        "id": 0,
+        "naam": "Ministerie van Defensie",
+        "provintie": "Zuid-Holland",
+        "plaats": "Den Haag",
+        "adres": "Kalvermarkt 32, 2511 CB",
+        "nummer": "070 318 8188"
+      },
+      {
+        "id": 1,
+        "naam": "DMO",
+        "provintie": "Zuid-Holland",
+        "plaats": "maasland",
+        "adres": "coldenhovelaan 1, 3155 RC",
+        "nummer": "Geen"
+      },
+      {
+        "id": 2,
+        "naam": "KromhoutKazerne",
+        "provintie": "Utrecht",
+        "plaats": "Utrecht",
+        "adres": "Herculeslaan 1, 3584 AB",
+        "nummer": "Geen"
+      }
+    ]
+  }
